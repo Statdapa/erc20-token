@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "contractAddress": "0xb7aA0a1C07563C3f4C6589B1dA93d1383CC75775",
+  "tokenName": "Shiro",
+  "tokenSymbol": "MPT",
+  "initialSupply": 1000000,
+  "deployedAt": "2026-05-02T06:18:00.552Z",
+  "deployer": "0x44C0997343086B2f1dB8EA48D4cdF7C85E04b7cF"
+}
